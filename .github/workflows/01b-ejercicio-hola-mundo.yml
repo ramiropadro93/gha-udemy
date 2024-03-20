@@ -1,9 +1,7 @@
 name: 01b Hola Mundo Custom
 
-# Controls when the action will run. Workflow runs when manually triggered using the UI
-# or API.
 on:
-  push
+  push:
     branches:
       main
 
